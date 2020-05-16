@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppNamePlaceholder": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "watch_xaml_dir": "$(ProjectDir)"
+      }
+    }
+  }
+}

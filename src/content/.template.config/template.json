@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Chen Fu",
+    "classifications": [ "Common", "WPF", "Elmish" ],
+    "name": "Elmish.WPF Starter",
+    "identity": "Elmish.WPF.Starter",
+    "shortName": "elmish-wpf",
+    "sourceName": "AppNamePlaceholder",
+    "tags": {
+      "language": "F#"
+    },
+    "preferNameDirectory": true,
+    "sources": [
+      {
+        "exclude": [ "**/bin/**/*", "**/obj/**/*", "**/.ionide/**/*" ]
+      }
+    ]
+  }

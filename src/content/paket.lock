@@ -1,0 +1,10 @@
+STORAGE: NONE
+RESTRICTION: == netcoreapp3.0
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Elmish (3.0.6)
+      FSharp.Core (>= 4.6.2)
+    Elmish.WPF (3.5.5)
+      Elmish (>= 3.0.3 < 4.0)
+      FSharp.Core (>= 4.6.2)
+    FSharp.Core (4.7.1)

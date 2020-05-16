@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>Elmish.WPF.Starter</id>
+        <version>0.1</version>
+        <title>Elmish.WPF Starter</title>
+        <summary>A dotnet-new template for Elmish.WPF applications.</summary>
+        <description>A dotnet-new template for Elmish.WPF applications.</description>
+        <authors>Chen Fu</authors>
+        <owners>Chen Fu</owners>
+        <projectUrl>https://github.com/fuchen/elmish-wpf-starter</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+</package>
